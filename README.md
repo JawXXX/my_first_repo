@@ -9,3 +9,5 @@ New txt local
 New text on firt_branch
 
 Конфликт local 
+
+Конфликт 
